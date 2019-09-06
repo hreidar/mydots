@@ -104,9 +104,9 @@ set encoding=utf8
 set ffs=unix,dos,mac
 
 let base16colorspace=256
-colorscheme base16-default-dark
-set background=dark
-
+"colorscheme base16-default-dark
+"set background=dark
+colorscheme desert
 
 set cursorline	" highlight current active line
 

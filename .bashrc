@@ -122,5 +122,5 @@ source <(kubectl completion bash)
 alias k=kubectl
 alias kdump='k get all --all-namespaces'
 # alias for managing dotfiles in git
-alias config='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME'
+alias config='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 
